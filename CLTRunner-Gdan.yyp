@@ -3,9 +3,17 @@
   "resourceVersion": "1.6",
   "name": "CLTRunner-Gdan",
   "resources": [
+    {"id":{"name":"spr_tela2","path":"sprites/spr_tela2/spr_tela2.yy",},"order":1,},
+    {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"order":5,},
+    {"id":{"name":"spr_tela1","path":"sprites/spr_tela1/spr_tela1.yy",},"order":0,},
+    {"id":{"name":"spr_btn_avancar","path":"sprites/spr_btn_avancar/spr_btn_avancar.yy",},"order":4,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"spr_tela3","path":"sprites/spr_tela3/spr_tela3.yy",},"order":2,},
+    {"id":{"name":"obj_btn_avancar","path":"objects/obj_btn_avancar/obj_btn_avancar.yy",},"order":0,},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":3,},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
+    {"id":{"name":"RoomGame","path":"rooms/RoomGame/RoomGame.yy",},"order":4,},
+    {"id":{"name":"spr_tela4","path":"sprites/spr_tela4/spr_tela4.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -30,6 +38,7 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"RoomGame","path":"rooms/RoomGame/RoomGame.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
