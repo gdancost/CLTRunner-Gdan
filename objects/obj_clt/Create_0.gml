@@ -12,7 +12,7 @@ if (x == X_ESQUERDA)
 else
 	image_xscale = -1;
 
-vspeed = 1;
+vspeed = global.vspeed_clt;
 
 
 

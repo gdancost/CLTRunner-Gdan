@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_clt",
   "spriteId": {
-    "name": "spr_clt_strip8",
-    "path": "sprites/spr_clt_strip8/spr_clt_strip8.yy",
+    "name": "spr_clt",
+    "path": "sprites/spr_clt/spr_clt.yy",
   },
   "solid": false,
   "visible": true,

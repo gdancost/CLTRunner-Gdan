@@ -8,3 +8,6 @@ alarm[0] = 120;
 //setando alarme do lanche
 alarm[1] = 100;
 
+global.pontos = 0;
+
+global.vspeed_clt = 1;

@@ -6,8 +6,6 @@ X_DIREITA = 168;
 //coordenada X do lado esquerdo
 X_ESQUERDA = 12;
 
-//variavel para controlar a mudança de lado
-isLeft =  true;
 
 //seta o image_xscale para o padrão pois o key up space começa ativando
 image_xscale =  -1;
